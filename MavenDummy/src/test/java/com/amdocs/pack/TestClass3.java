@@ -8,7 +8,7 @@ public class TestClass3 {
 	@Test
 public void sum()
 {
-		System.out.println("This is the sum method");
+		System.out.println("This is the sum method in class 3");
 		int a =10;
 		int b =20;
 		int c =a+b;
